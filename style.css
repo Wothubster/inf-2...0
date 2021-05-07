@@ -1,0 +1,31 @@
+.lABEL {
+    display:flex;
+    justify-content: center ;
+    align-items: flex-start;
+    color: coral;
+}
+
+
+.LOGO {
+
+    display:flex;
+    justify-content: center ;
+    align-items: flex-start;
+}
+h2 {
+    color:aqua;
+}
+.number {
+    font-size: large;
+    color:blueviolet;
+}
+.email {
+    font-size: large;
+    color:blueviolet;
+}
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+}
